@@ -1,20 +1,23 @@
-# PRODIGY_GA_03
+## Concepts Used
 
-## AI Chatbot using GPT-2
-
-This project implements a chatbot using GPT-2 model.
-
-The chatbot generates responses based on user input.
-
----
+- Natural Language Processing (NLP)  
+- Text Generation  
+- Pretrained Language Models  
+- Transformer Architecture  
+- Generative AI
 
 ## Technologies Used
-- Python
-- Transformers
+
+- Python  
+- Hugging Face Transformers  
 - Google Colab
 
----
+## Result
+
+The chatbot successfully generates meaningful and human-like responses based on user input.  
+It is capable of continuing conversations and providing relevant answers using the GPT-2 model. 
 
 ## Author
+
 Meghana K B  
-3rd Year CSE
+3rd Year CSE 
